@@ -7,6 +7,6 @@ NOTE: this code is NOT robust to all system states, and is provided here in the 
 Additional modules for lib:
   adafruit_bus_device \\
   adafruit_hid \\
-  adafruit_ds3231.py (for RTC functionality, specific for DS3231 timeclock. For more information, see: https://learn.adafruit.com/adafruit-ds3231-precision-rtc-breakout/circuitpython)\\
+  adafruit_ds3231.py (for RTC functionality, specific for DS3231 timeclock. For more information, see: https://learn.adafruit.com/adafruit-ds3231-precision-rtc-breakout/circuitpython) \\
   adafruit_register\\
   
